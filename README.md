@@ -20,7 +20,7 @@ Actively contributing to **open-source projects in Java,Python,Go and Rust**, wi
 ---
 
 ## 🤝 Open Source Collaboration
-- ✅ Actively collaborating in **Go,Rust**,**Python and Java* ecosystems
+- ✅ Actively collaborating in **Go,Rust,Python and Java** ecosystems
 - ✅ Contributing to large, real-world OSS codebases
 - 🔄 Ongoing PRs, reviews, and maintainer discussions
 
