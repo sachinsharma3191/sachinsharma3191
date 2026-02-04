@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sachin Sharma (@sachinsharma3191)
 
 🚀 Staff-level Software Engineer focused on **distributed systems, backend platforms, and cloud-native architectures**.  
-Actively contributing to **open-source projects in Go and Rust**, with a growing focus on **Machine Learning systems**.
+Actively contributing to **open-source projects in Java,Python,Go and Rust**, with a growing focus on **Machine Learning systems**.
 
 ---
 
