@@ -3,7 +3,7 @@
 🚀 **Staff Software Engineer | Distributed Systems, AI & Backend Platforms**
 
 Backend engineer with ~10 years of experience designing and operating **enterprise-scale distributed systems**, high-throughput data pipelines, and cloud-native platforms.  
-Experienced in **modernizing legacy systems, building event-driven architectures, and integrating AI (LLM/RAG) into production systems**.  [oai_citation:0‡Sharma_Sachin.docx](sediment://file_00000000c2f871f58248b587fc9b7875)
+Experienced in **modernizing legacy systems, building event-driven architectures, and integrating AI (LLM/RAG) into production systems**. 
 
 ---
 
