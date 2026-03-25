@@ -1,108 +1,102 @@
 # 👋 Hi, I’m Sachin Sharma (@sachinsharma3191)
 
-🚀 **Staff Software Engineer | Distributed Systems, AI & Backend Platforms**
+🚀 **Staff Software Engineer | Distributed Systems, Workflow Engines & AI Platforms**
 
-Backend engineer with ~10 years of experience designing and operating **enterprise-scale distributed systems**, high-throughput data pipelines, and cloud-native platforms.  
-Experienced in **modernizing legacy systems, building event-driven architectures, and integrating AI (LLM/RAG) into production systems**. 
+Backend & platform engineer with ~10 years of experience building **large-scale distributed systems, data platforms, and cloud-native services**.  
+Focused on **high-throughput systems, workflow orchestration, and production AI systems**.
 
 ---
 
-## 🔥 What I Do
+## 🔥 What I Build
 
-- ⚙️ Architect **distributed systems & microservices at scale**
-- 📊 Build **high-throughput data pipelines & analytics platforms**
-- 🔄 Design **event-driven systems (Kafka, SQS, async processing)**
-- 🤖 Integrate **AI systems (LLMs, RAG, embeddings) into real-world applications**
-- ☁️ Lead **cloud-native transformations (AWS, Azure, GCP)**
+- ⚙️ **Distributed systems & backend platforms** at scale  
+- 🔄 **Workflow-driven architectures** (Temporal, event-driven systems)  
+- 📊 **High-throughput data pipelines & analytics systems**  
+- 🤖 **Production AI systems** (LLMs, agentic workflows, RAG)  
+- ☁️ **Cloud-native platforms** across AWS, Azure, and Kubernetes  
 
 ---
 
 ## 🧠 Current Focus
 
-- 🤖 **Agentic AI Systems**
-  - .NET + Microsoft AI ecosystem (Semantic Kernel / Azure AI)
-  - LangChain / LangGraph / LangSmith
-  - Multi-agent workflows & A2A architectures
+### ⚙️ Distributed Systems & Workflow Engines
+- Temporal (Go / Python / SDK ecosystem)
+- Event-driven systems (Kafka, async processing, DLQ patterns)
+- Scalable microservices & orchestration patterns
 
-- 🧬 **Production ML Systems**
-  - RAG pipelines
-  - Vector databases
-  - LLM-based applications
+### 🤖 AI Systems (Production-Ready)
+- Agentic AI (Microsoft AI + LangChain ecosystem)
+- Multi-agent workflows & A2A architectures
+- LLM-powered backend systems
 
-- 🦀 **Systems & Performance**
-  - Rust for high-performance services
-  - Distributed workflow orchestration
+### 🦀 Systems & Performance
+- Rust for high-performance services
+- Concurrency, scaling, and low-latency design
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Stack
 
 **Languages:**  
-C# • Java • Go • Python • Rust  
+Java • Go • Python • C# • Rust  
 
 **Backend & Systems:**  
-Spring Boot • ASP.NET Core • FastAPI • Gin • Temporal • REST APIs  
+Spring Boot • ASP.NET Core • FastAPI • Gin • Temporal  
 
 **Data & Storage:**  
-PostgreSQL • MySQL • Azure SQL • Cassandra • Elasticsearch • Trino • Vector DBs  
+PostgreSQL • Cassandra • Elasticsearch • Trino  
 
-**Streaming & Messaging:**  
-Kafka • Amazon SQS • Amazon SNS  
+**Streaming:**  
+Kafka • SQS • SNS  
 
-**Cloud & Infrastructure:**  
+**Cloud & Infra:**  
 AWS • Azure • GCP • Docker • Kubernetes  
 
-**Observability & Reliability:**  
-Datadog • Prometheus • Grafana • ELK  
-
-**Testing & Quality:**  
-JUnit • Pytest • Cucumber • Karate  
+**Observability:**  
+Datadog • Prometheus • Grafana  
 
 ---
 
-## 🏗️ Notable Work
+## 🏗️ Selected Work
 
-- 🚀 Built **distributed pipelines using Temporal (Go/Python)** for high-volume processing  
-- ⚡ Migrated **Hive → Trino**, reducing query latency by ~40%  
-- 📉 Reduced message volume by **30% in Kafka pipelines** via re-architecture  
-- 🌍 Designed **international pricing systems (Walmart)** with geo + tax validation  
-- 🤖 Built **LLM-based chatbot (RAG)** for enterprise security data  
+- 🚀 Built **Temporal-based distributed pipelines** for high-volume processing  
+- ⚡ Led **Hive → Trino migration**, improving query performance (~40%)  
+- 📉 Reduced **Kafka pipeline load by ~30%** via architecture redesign  
+- 🌍 Designed **global pricing & location systems (Walmart)**  
+- 🤖 Built **LLM-powered systems (RAG + agent workflows)**  
 
 ---
 
 ## 🌍 Open Source
 
-- ✅ Active contributor to **large-scale OSS systems**
-- ✅ Contributions across distributed systems, SDKs, and infrastructure
-- 🔄 Ongoing PRs, reviews, and maintainer discussions
+Active contributor to **distributed systems & infrastructure ecosystems**, including:
 
-> OSS is where I validate ideas at scale and contribute to real engineering ecosystems.
+- Temporal (SDK / core ecosystem)
+- Trino (query engine & data platform)
+- Grafana / observability tooling
+- .NET ecosystem (runtime, tooling)
+
+> Focused on **deep contributions to core systems**, not surface-level fixes.
 
 ---
 
-## 📌 Featured Work (Pinned Repos)
+## 📌 Featured Work
 
-- 🤖 AI systems (Agentic workflows, RAG)
-- ⚙️ Distributed backend platforms
-- 📊 Data & streaming architectures
-- 🦀 Systems / performance projects
+- ⚙️ Distributed systems & backend platforms  
+- 🤖 AI systems (agentic workflows, LLM integrations)  
+- 🦀 Systems programming & performance projects  
 
 ---
 
 ## 📫 Reach Me
 
-- 📧 **sachinsharma31261@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/sachinsharma31261/
-- 🐦 Twitter: https://twitter.com/sachin26110
+- 📧 sachinsharma31261@gmail.com  
+- 💼 https://linkedin.com/in/sachinsharma31261/  
 
 ---
 
 ## ⚡ Philosophy
 
 > Build systems that scale.  
-> Solve problems that matter.  
-> Contribute beyond your code.
-
----
-
-⭐️ Focused on **Distributed Systems + AI + Open Source Impact**
+> Focus on impact over volume.  
+> Contribute where it matters.
