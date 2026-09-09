@@ -121,8 +121,6 @@ Some areas I’m actively building and experimenting with:
 
 📫 Connect
 
-📧 sachinsharma31261@gmail.com
-
 💼 LinkedIn:
 https://linkedin.com/in/sachinsharma31261/
 
