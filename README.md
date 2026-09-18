@@ -113,7 +113,6 @@ Some areas I’m actively building and experimenting with:
 * 🤖 Agentic AI applications
 * 🔄 Durable workflow orchestration
 * 🧠 AI + distributed systems infrastructure
-* 🔎 Search and retrieval systems
 * 🦀 High-performance systems with Rust
 * ☁️ Cloud-native backend architectures
 
